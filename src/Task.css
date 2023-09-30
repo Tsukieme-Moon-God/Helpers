@@ -1,0 +1,30 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+  background: white;
+  color: #444444;
+  height: 30px;
+}
+
+.icon {
+  width: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+span {
+  margin-left: 10px;
+}
+
+.completed-text {
+  text-decoration: line-through;
+}
